@@ -1,0 +1,22 @@
+{
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "off",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    },
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all"
+  },
+  "markdownlint.config": {
+    "MD004": { "style": "asterisk" },
+    "MD034": false,
+    "MD013": false
+  }
+}
